@@ -1,0 +1,15 @@
+G:\Server\Server\bin\Debug\net6.0\ServerList.exe
+G:\Server\Server\bin\Debug\net6.0\ServerList.deps.json
+G:\Server\Server\bin\Debug\net6.0\ServerList.runtimeconfig.json
+G:\Server\Server\bin\Debug\net6.0\ServerList.dll
+G:\Server\Server\bin\Debug\net6.0\ServerList.pdb
+G:\Server\Server\obj\Debug\net6.0\ServerList.csproj.AssemblyReference.cache
+G:\Server\Server\obj\Debug\net6.0\ServerList.GeneratedMSBuildEditorConfig.editorconfig
+G:\Server\Server\obj\Debug\net6.0\ServerList.AssemblyInfoInputs.cache
+G:\Server\Server\obj\Debug\net6.0\ServerList.AssemblyInfo.cs
+G:\Server\Server\obj\Debug\net6.0\ServerList.csproj.CoreCompileInputs.cache
+G:\Server\Server\obj\Debug\net6.0\ServerList.dll
+G:\Server\Server\obj\Debug\net6.0\refint\ServerList.dll
+G:\Server\Server\obj\Debug\net6.0\ServerList.pdb
+G:\Server\Server\obj\Debug\net6.0\ServerList.genruntimeconfig.cache
+G:\Server\Server\obj\Debug\net6.0\ref\ServerList.dll
